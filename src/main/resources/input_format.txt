@@ -1,0 +1,1 @@
+http://localhost:8082/baseURL/uk_lse_5mins_macd_datamigrate/2020-05-01/migrate
