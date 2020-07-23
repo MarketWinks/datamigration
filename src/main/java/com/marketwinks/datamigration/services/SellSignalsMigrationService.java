@@ -86,7 +86,7 @@ public class SellSignalsMigrationService {
 			LocalDateTime newLocalDate = LocalDateTime.parse(Date, df1);
 			
 			int from_days = 100;
-			int to_days = 10;
+			int to_days = 1;
 			
 			for (int d=from_days; d>=to_days; d--) {
 				
@@ -150,7 +150,7 @@ public class SellSignalsMigrationService {
 			LocalDateTime newLocalDate = LocalDateTime.parse(Date, df1);
 			
 			int from_days = 100;
-			int to_days = 10;
+			int to_days = 2;
 			
 			for (int d=from_days; d>=to_days; d--) {
 				
@@ -213,7 +213,7 @@ public class SellSignalsMigrationService {
 			LocalDateTime newLocalDate = LocalDateTime.parse(Date, df1);
 			
 			int from_days = 100;
-			int to_days = 15;
+			int to_days = 3;
 			
 			for (int d=from_days; d>=to_days; d--) {
 				
@@ -276,7 +276,7 @@ public class SellSignalsMigrationService {
 			LocalDateTime newLocalDate = LocalDateTime.parse(Date, df1);
 			
 			int from_days = 100;
-			int to_days = 15;
+			int to_days = 4;
 			
 			for (int d=from_days; d>=to_days; d--) {
 				
@@ -339,7 +339,7 @@ public class SellSignalsMigrationService {
 			LocalDateTime newLocalDate = LocalDateTime.parse(Date, df1);
 			
 			int from_days = 200;
-			int to_days = 30;
+			int to_days = 5;
 			
 			for (int d=from_days; d>=to_days; d--) {
 				
@@ -402,7 +402,7 @@ public class SellSignalsMigrationService {
 			LocalDateTime newLocalDate = LocalDateTime.parse(Date, df1);
 			
 			int from_days = 400;
-			int to_days = 90;
+			int to_days = 10;
 			
 			for (int d=from_days; d>=to_days; d--) {
 				
@@ -465,7 +465,7 @@ public class SellSignalsMigrationService {
 			LocalDateTime newLocalDate = LocalDateTime.parse(Date, df1);
 			
 			int from_days = 1000;
-			int to_days = 400;
+			int to_days = 20;
 			
 			for (int d=from_days; d>=to_days; d--) {
 				
